@@ -40,6 +40,7 @@ Donde `N` es un número entero positivo. Los únicos archivos que deben modifica
 * `ArbolRojinegro.java`,
 * `Arreglos.java`,
 * `Cola.java`,
+* `Grafica.java`,
 * `Lista.java`,
 * `MeteSaca.java`, y
 * `Pila.java`.
